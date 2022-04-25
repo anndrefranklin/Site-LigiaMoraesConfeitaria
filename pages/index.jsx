@@ -29,13 +29,11 @@ export default function Home() {
         </p>
 
         <p className={styles.obs}>
-          Clique no botão abaixo para conferir nossos Bolos, Kit festas e muito mais.
+          Clique no botão abaixo para conferir nossos Bolos, Kit festas e muito
+          mais.
         </p>
 
-        
-        <button className={styles.btn_cardapio}>
-          Nosso Cardápio
-        </button>
+        <button className={styles.btn_cardapio}>Nosso Cardápio</button>
       </main>
 
       <footer className={styles.footer}>
@@ -44,7 +42,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Developer by André Franklin © 2022           
+          Developer by André Franklin © 2022
         </a>
       </footer>
     </div>
